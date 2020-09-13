@@ -35,6 +35,6 @@ public class EighthClassThird {
             factorial *=num;
         }
         System.out.println(factorial);
-        //comment
+        //Ends
     }
 }
